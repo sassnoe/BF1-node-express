@@ -8,34 +8,37 @@
   </head>
 
   <body>
-    <header>Bunden Forudsætning 1</header>
+    <header>
+      <h2>Bunden Forudsætning 1</h2>
+      <button id="allArtists">All Artists</button>
+      <button id="favoritedArtists">Favorited Artists</button>
+    </header>
+    <div>
+      <h3>Music artists filter and sort</h3>
+      <label for="genreFilter">Filter by Genre:</label>
+      <select id="genreFilter">
+        <option value="all">All Genres</option>
+        <option value="rock">Rock</option>
+        <option value="metal">Metal</option>
+        <option value="grunge">Grunge</option>
+        <option value="pop">Pop</option>
+        <option value="R&B">R&B</option>
+        <option value="hip hop">Hip Hop</option>
+        <option value="rap">Rap</option>
+        <option value="country">Country</option>
+        <option value="folk">Folk</option>
+        <option value="indie">Indie</option>
+        <option value="jazz">Jazz</option>
+        <option value="classical">Classical</option>
+        <option value="lo-fi">Lo-Fi</option>
+      </select>
 
-    <h1>Music artists filter and sort</h1>
-    <label for="genreFilter">Filter by Genre:</label>
-    <select id="genreFilter">
-      <option value="all">All Genres</option>
-      <option value="rock">Rock</option>
-      <option value="metal">Metal</option>
-      <option value="grunge">Grunge</option>
-      <option value="pop">Pop</option>
-      <option value="R&B">R&B</option>
-      <option value="hiphop">Hip Hop</option>
-      <option value="rap">Rap</option>
-      <option value="country">Country</option>
-      <option value="folk">Folk</option>
-      <option value="indie">Indie</option>
-      <option value="jazz">Jazz</option>
-      <option value="classical">Classical</option>
-      <option value="lofi">Lo-Fi</option>
-    </select>
-
-    <label for="sortBy">Sort by Active Since:</label>
-    <select id="sortBy">
-      <option value="newest">Newest First</option>
-      <option value="oldest">Oldest First</option>
-    </select>
-
-    <button id="btnFilterSort">Apply Filters and Sort</button>
+      <label for="sortBy">Sort by Active Since:</label>
+      <select id="sortBy">
+        <option value="newest">Newest First</option>
+        <option value="oldest">Oldest First</option>
+      </select>
+    </div>
 
     <main>
       <section id="artists-grid" class="grid-container"></section>

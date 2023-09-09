@@ -1,6 +1,6 @@
 /* ---------- root variables ---------- */
 :root {
-  --green: rgb(72, 154, 89);
+  --green: rgb(174, 124, 174);
   --green-opacity: rgba(38, 76, 89, 0.2);
   --light-green: rgb(172, 198, 201);
   --light-grey: #f1f1f4;
@@ -48,7 +48,11 @@ a {
 
 img {
   width: 100%;
-  height: auto;
+  height: 100%;
+}
+
+div {
+  text-align: center;
 }
 
 /* ---------- topbar styling ---------- */
@@ -56,11 +60,11 @@ header {
   background: linear-gradient(bisque, sandybrown);
   color: var(--text-color-light);
   padding: 15px;
-  position: fixed;
   top: 0;
   left: 0;
   right: 0;
   z-index: 9999;
+  text-align: center;
 }
 
 /* ---------- page styling ---------- */
@@ -124,7 +128,7 @@ main {
 .grid-container img {
   width: 100%;
   height: 200px;
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .grid-container p {
@@ -178,5 +182,3 @@ input {
   display: block;
   background: var(--white);
 }
-
-/* favorite */
