@@ -1,0 +1,90 @@
+[
+  {
+    "id": "94d45937-76f0-4039-bad5-f5e7a3660980",
+    "name": "Norah Jones",
+    "birthdate": "30/03/1979",
+    "activeSince": "2000",
+    "genres": "Pop, Jazz, Folk, Country",
+    "labels": "Blue Note",
+    "website": "norahjones.com",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Norahjonesongma_%28cropped%29.jpg/800px-Norahjonesongma_%28cropped%29.jpg",
+    "shortDescription": "Norah Jones (born Geethali Norah Jones Shankar; March 30, 1979) is an American singer, songwriter, and pianist. She has won several awards for her music and, as of 2023, had sold more than 50 million records worldwide. Billboard named her the top jazz artist of the 2000's decade. She has won nine Grammy Awards and was ranked 60th on Billboard magazine's artists of the 2000s decade chart."
+  },
+  {
+    "id": "7d9b88ef-ec32-4f2c-9f5f-26c33a7c521c",
+    "name": "Dave Grohl",
+    "birthdate": "14/01/1969",
+    "activeSince": "1986",
+    "genres": "Alternative Rock, Hard Rock, Heavy Metal, Punk Rock, Grunge",
+    "labels": "RCA, Capitol, Roswell, DGC, Dischord, Sub Pop, Sammich",
+    "website": "https://en.wikipedia.org/wiki/Dave_Grohl",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/FoosDublin210819-2_%2848620472807%29_%28cropped%29.jpg/1024px-FoosDublin210819-2_%2848620472807%29_%28cropped%29.jpg",
+    "shortDescription": "David Eric Grohl (born January 14, 1969) is an American musician. He is the founder of the rock band Foo Fighters, for which he is the lead singer, guitarist, and principal songwriter. Prior to forming Foo Fighters, he was the drummer of rock band Nirvana from 1990 to 1994."
+  },
+  {
+    "id": "ec28ad51-7d7f-4d75-8fe5-447f2ceec7eb",
+    "name": "Kurt Cobain",
+    "birthdate": "20/02/1967",
+    "activeSince": "1985",
+    "genres": "Grunge, Alternative Rock, Punk Rock, Hard Rock",
+    "labels": "Sub Pop, DGC, Geffen",
+    "website": "https://en.wikipedia.org/wiki/Kurt_Cobain",
+    "image": "https://media.newyorker.com/photos/5ad514a5cd7220727ab349eb/master/w_2240,c_limit/940425_ra505.jpg",
+    "shortDescription": "Kurt Donald Cobain (February 20, 1967 - April 5, 1994) was an American musician who was the co-founder, lead vocalist, guitarist and primary songwriter of the rock band Nirvana. Through his angst-fueled songwriting and anti-establishment persona, Cobain's compositions widened the thematic conventions of mainstream rock. He was heralded as a spokesman of Generation X and is highly recognized as one of the most influential alternative rock musicians."
+  },
+  {
+    "id": "18d281e3-56b3-4f48-86c4-1178fc4df0d3",
+    "name": "Doja Cat",
+    "birthdate": "21/10/1995",
+    "activeSince": "2012",
+    "genres": "Hip Hop, Pop, R&B, Pop Rap",
+    "labels": "Kemosabe, RCA",
+    "website": "dojacat.com",
+    "image": "https://media.gq-magazine.co.uk/photos/5eaab3bfb7ebbc00082c8369/16:9/w_2240,c_limit/20200430-Doja-Cat.jpg",
+    "shortDescription": "Amala Ratna Zandile Dlamini (Zulu: ['zandile 'ɮamini]; born October 21, 1995), better known by her stage name Doja Cat, is an American rapper and singer. Born and raised in Los Angeles, Doja Cat began making and releasing music on SoundCloud. Her song 'So High' caught the attention of Kemosabe and RCA Records, with which she signed a joint record deal before releasing her debut EP 'Purrr!' in 2014."
+  },
+  {
+    "id": "3985cf84-5c69-4b01-a6e9-06584ec610f8",
+    "name": "Joji",
+    "birthdate": "18/09/1992",
+    "activeSince": "2006",
+    "genres": "R&B, alt-R&B, Trip Hop, Lo-Fi",
+    "labels": "88rising, 12Tone, Warner",
+    "website": "jojimusic.com",
+    "image": "https://assets.popbuzz.com/2020/40/everything-you-need-to-know-about-joji-1602074922-view-0.jpg",
+    "shortDescription": "George Kusunoki Miller (ミラー・ジョージ・クスノキ, Mirā Jōji Kusunoki, born 18 September 1992), known professionally as Joji and formerly for playing the characters Filthy Frank and Pink Guy, is a Japanese singer-songwriter, rapper and internet personality. Miller's music has been described as a mix between R&B, lo-fi, and trip hop."
+  },
+  {
+    "id": "8f867d18-830a-4b38-a1d0-d413c2b9970d",
+    "name": "Update Test",
+    "birthdate": "N/A",
+    "activeSince": "05/09/2023",
+    "genres": "Pain, Suffering",
+    "labels": "88rising",
+    "website": "stackoverflow.com",
+    "image": "https://i.guim.co.uk/img/media/3aab8a0699616ac94346c05f667b40844e46322f/0_123_5616_3432/master/5616.jpg?width=620&dpr=2&s=none",
+    "shortDescription": "Satisfyingn't"
+  },
+  {
+    "id": "3d158bb3-88e6-4900-8c03-cd50f433f5c1",
+    "name": "Chester Bennington",
+    "birthdate": "20/03/1976",
+    "activeSince": "1992",
+    "genres": "Alternative Metal, Nu Metal, Hard Rock, Alternative Rock, Electronic Rock, Post-Grunge, Pop Rock",
+    "labels": "Warner, Machine Shop",
+    "website": "linkinpark.com",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Linkin_Park-Rock_im_Park_2014-_by_2eight_3SC0327.jpg",
+    "shortDescription": "Chester Charles Bennington (March 20, 1976 – July 20, 2017) was an American singer who served as the lead vocalist of rock band Linkin Park. He was also a lead vocalist of Grey Daze, Dead by Sunrise and Stone Temple Pilots at various points."
+  },
+  {
+    "id": "a1f6ec25-6626-4cb0-b33b-4f17a62d7a5e",
+    "name": "Chet Baker",
+    "birthdate": "23/12/1929",
+    "activeSince": "1949",
+    "genres": "Cool Jazz, Bebop, West Coast Jazz",
+    "labels": "Pacific Jazz, RCA, Epic",
+    "website": "https://en.wikipedia.org/wiki/Chet_Baker",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Chet_Baker_%281929%E2%80%931988%29.jpg",
+    "shortDescription": "Chesney Henry 'Chet' Baker Jr. (December 23, 1929 – May 13, 1988) was an American jazz trumpeter and vocalist. He is known for major innovations in cool jazz that led him to be nicknamed the 'Prince of Cool'."
+  }
+]

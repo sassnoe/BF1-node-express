@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="app.css" />
+    <title>BF1NodeExpress</title>
+  </head>
+
+  <body>
+    <header>Bunden Forudsætning 1</header>
+
+    <h1>Music artists filter and sort</h1>
+    <label for="genreFilter">Filter by Genre:</label>
+    <select id="genreFilter">
+      <option value="all">All Genres</option>
+      <option value="rock">Rock</option>
+      <option value="metal">Metal</option>
+      <option value="grunge">Grunge</option>
+      <option value="pop">Pop</option>
+      <option value="R&B">R&B</option>
+      <option value="hiphop">Hip Hop</option>
+      <option value="rap">Rap</option>
+      <option value="country">Country</option>
+      <option value="folk">Folk</option>
+      <option value="indie">Indie</option>
+      <option value="jazz">Jazz</option>
+      <option value="classical">Classical</option>
+      <option value="lofi">Lo-Fi</option>
+    </select>
+
+    <label for="sortBy">Sort by Active Since:</label>
+    <select id="sortBy">
+      <option value="newest">Newest First</option>
+      <option value="oldest">Oldest First</option>
+    </select>
+
+    <button id="btnFilterSort">Apply Filters and Sort</button>
+
+    <main>
+      <section id="artists-grid" class="grid-container"></section>
+      <form id="form-create">
+        <h2>Add a new Artist</h2>
+        <input type="text" name="name" placeholder="Type artist name" required />
+        <input type="text" name="birthdate" placeholder="dd/mm/yyyy" required />
+        <input type="text" name="activeSince" placeholder="Active since" required />
+        <input type="text" name="genres" placeholder="Ex. Pop, Rock, Jazz" required />
+        <input type="text" name="labels" placeholder="Label(s)" required />
+        <input type="url" name="website" placeholder="Artist website" required />
+        <input type="url" name="image" placeholder="Paste image url" required />
+        <input type="text" name="shortDescription" placeholder="Short artist description" required />
+        <button>Add Artist</button>
+      </form>
+
+      <form id="form-update">
+        <h2>Update Artist</h2>
+        <input type="text" name="name" placeholder="Type artist name" required />
+        <input type="text" name="birthdate" placeholder="dd/mm/yyyy" required />
+        <input type="text" name="activeSince" placeholder="Active since" required />
+        <input type="text" name="genres" placeholder="Ex. Pop, Rock, Jazz" required />
+        <input type="text" name="labels" placeholder="Label(s)" required />
+        <input type="url" name="website" placeholder="Artist website" required />
+        <input type="url" name="image" placeholder="Paste image url" required />
+        <input type="text" name="shortDescription" placeholder="Short artist description" required />
+        <button>Update Artist</button>
+      </form>
+    </main>
+    <script src="main.js" type="module"></script>
+  </body>
+</html>

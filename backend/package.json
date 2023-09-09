@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  },
+  "name": "bf1",
+  "version": "1.0.0",
+  "description": "Bunden Forudsætning 1 Node og Express",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch app.js"
+  },
+  "author": "Joakim Nørgaard",
+  "license": "ISC"
+}
